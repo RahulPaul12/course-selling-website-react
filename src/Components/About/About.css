@@ -1,0 +1,11 @@
+.about{
+    text-align: center;
+    background-color: rgb(215, 215, 235);
+    height: 100px;
+    padding-top: 20px;
+    margin-top: 30px;
+}
+.aboutH1{
+    margin-top: 10px;
+    text-align: center;
+}
